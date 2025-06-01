@@ -1,0 +1,19 @@
+{
+  "facts": [
+    {
+      "date": "2025-06-01",
+      "title": "UK productivity slump",
+      "content": "The UK's productivity is near the bottom of the G7 wealthiest nations in the world. Since 2019, it has fallen in 13 sectors that account for nearly two-thirds of UK output."
+    },
+    {
+      "date": "2025-06-02", 
+      "title": "China's bond market surge",
+      "content": "China's bond market has grown to become the world's second-largest, with outstanding bonds reaching $21 trillion, yet foreign ownership remains below 3% due to regulatory barriers."
+    },
+    {
+      "date": "2025-06-03",
+      "title": "AI trading revolution",
+      "content": "Over 85% of equity trading volume in US markets is now executed by algorithms, with high-frequency trading accounting for nearly 50% of all trades."
+    }
+  ]
+}
